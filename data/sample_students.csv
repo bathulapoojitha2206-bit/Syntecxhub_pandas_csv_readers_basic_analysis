@@ -1,0 +1,102 @@
+student_id,student_name,subject,marks,attendance,study_hours,class_section,grade
+STU-001,Aarav Sharma,Mathematics,88.5,92.0,6.5,Section A,A
+STU-001,Aarav Sharma,Physics,79.0,90.0,5.0,Section A,B
+STU-001,Aarav Sharma,Chemistry,84.0,95.0,5.5,Section A,B
+STU-001,Aarav Sharma,Computer Science,95.0,94.0,7.0,Section A,A
+STU-001,Aarav Sharma,English,76.5,88.0,4.0,Section A,C
+STU-002,Diya Patel,Mathematics,92.0,96.0,7.5,Section A,A
+STU-002,Diya Patel,Physics,89.5,95.0,6.5,Section A,A
+STU-002,Diya Patel,Chemistry,91.0,98.0,7.0,Section A,A
+STU-002,Diya Patel,Computer Science,98.0,97.0,8.0,Section A,A
+STU-002,Diya Patel,English,85.0,92.0,5.0,Section A,B
+STU-003,Rohan Verma,Mathematics,62.0,78.0,3.5,Section B,C
+STU-003,Rohan Verma,Physics,58.5,75.0,3.0,Section B,D
+STU-003,Rohan Verma,Chemistry,65.0,80.0,4.0,Section B,C
+STU-003,Rohan Verma,Computer Science,72.0,82.0,4.5,Section B,C
+STU-003,Rohan Verma,English,68.0,76.0,3.5,Section B,C
+STU-004,Ananya Iyer,Mathematics,94.5,98.0,8.0,Section A,A
+STU-004,Ananya Iyer,Physics,91.0,97.0,7.5,Section A,A
+STU-004,Ananya Iyer,Chemistry,88.0,95.0,6.5,Section A,B
+STU-004,Ananya Iyer,Computer Science,96.5,99.0,8.5,Section A,A
+STU-004,Ananya Iyer,English,89.0,94.0,5.5,Section A,B
+STU-005,Vikram Singh,Mathematics,54.0,70.0,2.5,Section B,D
+STU-005,Vikram Singh,Physics,49.0,68.0,2.0,Section B,F
+STU-005,Vikram Singh,Chemistry,58.0,72.0,3.0,Section B,D
+STU-005,Vikram Singh,Computer Science,63.0,74.0,3.5,Section B,C
+STU-005,Vikram Singh,English,61.0,71.0,2.5,Section B,D
+STU-006,Meera Nair,Mathematics,82.0,89.0,5.5,Section A,B
+STU-006,Meera Nair,Physics,86.0,91.0,6.0,Section A,B
+STU-006,Meera Nair,Chemistry,80.5,88.0,5.0,Section A,B
+STU-006,Meera Nair,Computer Science,90.0,92.0,6.5,Section A,A
+STU-006,Meera Nair,English,84.5,87.0,5.0,Section A,B
+STU-007,Kabir Reddy,Mathematics,71.0,83.0,4.5,Section C,C
+STU-007,Kabir Reddy,Physics,67.5,81.0,4.0,Section C,D
+STU-007,Kabir Reddy,Chemistry,73.0,85.0,4.5,Section C,C
+STU-007,Kabir Reddy,Computer Science,78.5,86.0,5.0,Section C,C
+STU-007,Kabir Reddy,English,70.0,82.0,4.0,Section C,C
+STU-008,Sanya Gupta,Mathematics,96.0,99.0,8.5,Section A,A
+STU-008,Sanya Gupta,Physics,93.5,98.0,8.0,Section A,A
+STU-008,Sanya Gupta,Chemistry,95.0,99.0,8.0,Section A,A
+STU-008,Sanya Gupta,Computer Science,99.0,100.0,9.0,Section A,A
+STU-008,Sanya Gupta,English,91.0,96.0,6.5,Section A,A
+STU-009,Arjun Das,Mathematics,45.0,65.0,2.0,Section C,F
+STU-009,Arjun Das,Physics,52.0,68.0,2.5,Section C,D
+STU-009,Arjun Das,Chemistry,48.5,64.0,2.0,Section C,F
+STU-009,Arjun Das,Computer Science,58.0,70.0,3.0,Section C,D
+STU-009,Arjun Das,English,55.0,66.0,2.5,Section C,D
+STU-010,Pooja Rao,Mathematics,78.0,86.0,5.0,Section B,C
+STU-010,Pooja Rao,Physics,74.5,84.0,4.5,Section B,C
+STU-010,Pooja Rao,Chemistry,81.0,87.0,5.5,Section B,B
+STU-010,Pooja Rao,Computer Science,85.0,89.0,6.0,Section B,B
+STU-010,Pooja Rao,English,79.5,85.0,5.0,Section B,C
+STU-011,Aditya Joshi,Mathematics,89.0,93.0,6.5,Section A,B
+STU-011,Aditya Joshi,Physics,85.0,91.0,6.0,Section A,B
+STU-011,Aditya Joshi,Chemistry,87.5,92.0,6.0,Section A,B
+STU-011,Aditya Joshi,Computer Science,92.0,95.0,7.0,Section A,A
+STU-011,Aditya Joshi,English,81.0,89.0,5.0,Section A,B
+STU-012,Sneha Kulkarni,Mathematics,66.0,80.0,4.0,Section C,C
+STU-012,Sneha Kulkarni,Physics,70.0,82.0,4.5,Section C,C
+STU-012,Sneha Kulkarni,Chemistry,64.5,79.0,3.5,Section C,C
+STU-012,Sneha Kulkarni,Computer Science,75.0,84.0,5.0,Section C,C
+STU-012,Sneha Kulkarni,English,72.0,81.0,4.0,Section C,C
+STU-013,Rahul Menon,Mathematics,91.5,95.0,7.0,Section B,A
+STU-013,Rahul Menon,Physics,88.0,93.0,6.5,Section B,B
+STU-013,Rahul Menon,Chemistry,86.0,92.0,6.0,Section B,B
+STU-013,Rahul Menon,Computer Science,94.0,96.0,7.5,Section B,A
+STU-013,Rahul Menon,English,83.0,90.0,5.5,Section B,B
+STU-014,Tanvi Shah,Mathematics,,88.0,5.0,Section C,B
+STU-014,Tanvi Shah,Physics,76.0,,4.5,Section C,C
+STU-014,Tanvi Shah,Chemistry,79.5,87.0,5.0,Section C,C
+STU-014,Tanvi Shah,Computer Science,83.0,89.0,,Section C,B
+STU-014,Tanvi Shah,English,77.0,86.0,4.5,,C
+STU-015,Karan Bhatia,Mathematics,59.0,72.0,3.0,Section B,D
+STU-015,Karan Bhatia,Physics,62.0,74.0,3.5,Section B,C
+STU-015,Karan Bhatia,Chemistry,57.5,71.0,3.0,Section B,D
+STU-015,Karan Bhatia,Computer Science,66.0,75.0,3.5,Section B,C
+STU-015,Karan Bhatia,English,64.0,73.0,3.0,Section B,C
+STU-015,Karan Bhatia,English,64.0,73.0,3.0,Section B,C
+STU-016,Riya Sen,Mathematics,87.0,91.0,6.0,Section A,B
+STU-016,Riya Sen,Physics,84.0,90.0,5.5,Section A,B
+STU-016,Riya Sen,Chemistry,86.5,92.0,6.0,Section A,B
+STU-016,Riya Sen,Computer Science,91.0,94.0,7.0,Section A,A
+STU-016,Riya Sen,English,85.0,89.0,5.5,Section A,B
+STU-017,Harsh Vardhan,Mathematics,42.0,60.0,1.5,Section C,F
+STU-017,Harsh Vardhan,Physics,46.0,62.0,2.0,Section C,F
+STU-017,Harsh Vardhan,Chemistry,50.0,65.0,2.5,Section C,D
+STU-017,Harsh Vardhan,Computer Science,55.0,67.0,2.5,Section C,D
+STU-017,Harsh Vardhan,English,48.0,61.0,2.0,Section C,F
+STU-018,Neha Choudhury,Mathematics,95.0,97.0,8.0,Section A,A
+STU-018,Neha Choudhury,Physics,92.5,96.0,7.5,Section A,A
+STU-018,Neha Choudhury,Chemistry,94.0,98.0,8.0,Section A,A
+STU-018,Neha Choudhury,Computer Science,97.0,98.0,8.5,Section A,A
+STU-018,Neha Choudhury,English,90.5,95.0,6.5,Section A,A
+STU-019,Gaurav Kapoor,Mathematics,73.0,82.0,4.0,Section B,C
+STU-019,Gaurav Kapoor,Physics,69.0,80.0,4.0,Section B,C
+STU-019,Gaurav Kapoor,Chemistry,71.5,81.0,4.0,Section B,C
+STU-019,Gaurav Kapoor,Computer Science,76.0,84.0,4.5,Section B,C
+STU-019,Gaurav Kapoor,English,70.0,79.0,3.5,Section B,C
+STU-020,Ishita Roy,Mathematics,85.0,90.0,6.0,Section A,B
+STU-020,Ishita Roy,Physics,82.0,88.0,5.5,Section A,B
+STU-020,Ishita Roy,Chemistry,84.0,89.0,5.5,Section A,B
+STU-020,Ishita Roy,Computer Science,88.0,91.0,6.5,Section A,B
+STU-020,Ishita Roy,English,83.0,87.0,5.0,Section A,B
